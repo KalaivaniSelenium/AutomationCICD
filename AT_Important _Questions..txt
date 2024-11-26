@@ -33,10 +33,11 @@
 33. What are the roles and responsibilities?
 34. Which java & selenium versions are you using?
 35. How do you handle if XPath is changing dynamically?
-36. Have you ever written test cases in your projects?
+36. Have you ever written test cases in your recent projects?
 37. They asked Some selenium questions.
 38.
 39.
+40. What is Api Tesing?
 
 Smoke Testing: 
  - Quick health check of core features

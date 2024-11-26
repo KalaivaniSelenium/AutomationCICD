@@ -37,6 +37,8 @@
 35. How do you handle if XPath is changing dynamically?
 36. Have you ever written test cases in your projects?
 37. They asked Some selenium questions.
+38.
+39.
 
 Smoke Testing: 
  - Quick health check of core features

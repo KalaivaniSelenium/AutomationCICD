@@ -1,0 +1,61 @@
+1. Tell me about yourself.
+2. What are the various selenium components, and which components are you using?
+3. How do you inspect elements?
+4. What are the various locators you are using in your day-to-day life?
+5. Write syntax for XPath?
+6. Write a syntax to initialize the webdriver.
+7. Explain absolute and relative XPath with an example
+8. Explain your project and framework
+9. How do you get the data from the Excel sheet?
+10. Where do you use java in selenium webdriver?
+11. What is oops?
+12. Explain the abstraction concept with an example.
+13. Explain the inheritance concept with an example.
+14. Explain method overloading and Method overriding with an example.
+15. What is an interface? Explain with an example.
+16. Write a basic selenium script.
+17. Explain the defect life cycle.
+18. Write a syntax to select a value from the drop-down.
+19. Write syntax to get the text from the table.
+20. What are Hashmap and HashSet? Explain?
+21. Where do you use Hashmap?
+22. What is the exception you get in selenium?
+23. What is implicitly wait, explicitly wait, webdriver wait, Thread.sleep
+24. Write syntax for the webdriver wait.
+25. The difference between implicitly, explicitly, webdriver wait and thread.sleep.
+26. Which framework are you using in your project?
+27. Are you using any integration tools?
+28. What is Jenkins?
+29. Where do you upload test results?
+30. What are retesting and regression testing?
+31. What is smoke testing?
+32. How do you get to know if the developer has fixed the issues or not?
+33. What are the roles and responsibilities?
+34. Which java & selenium versions are you using?
+35. How do you handle if XPath is changing dynamically?
+36. Have you ever written test cases in your projects?
+37. They asked Some selenium questions.
+
+Smoke Testing: 
+ - Quick health check of core features
+Sanity Testing: 
+ - Checks if specific changes work without full retesting
+
+ Regression Testing: 
+ - Ensures new features don't break existing ones
+ - Comprehensive check of all functionalities
+ - Example: Retesting login, search, etc., after adding a new feature
+
+ Retesting:
+ - Rechecks specific issues after fixes
+ - Focused on resolved problems
+ - Example: Verifying a form submission works after a bug fix
+
+
+ npx playwright test --headed
+
+
+test management tools-  jira,azure devops,clickup.
+
+
+We need a scalable, maintainable framework that fits our team's needs, enhances test coverage, and reduces technical debt. Automation isn’t just about tools and frameworks, it’s about strategy & effort saving

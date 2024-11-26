@@ -8,6 +8,8 @@
 8. Explain your project and framework
 9. How do you get the data from the Excel sheet?
 10. Where do you use java in selenium webdriver?
+
+
 11. What is oops?
 12. Explain the abstraction concept with an example.
 13. Explain the inheritance concept with an example.

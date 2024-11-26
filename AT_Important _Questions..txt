@@ -8,6 +8,8 @@
 8. Explain your project and framework
 9. How do you get the data from the Excel sheet?
 10. Where do you use java in selenium webdriver?
+
+
 11. What is oops?
 12. Explain the abstraction concept with an example.
 13. Explain the inheritance concept with an example.
@@ -33,7 +35,9 @@
 33. What are the roles and responsibilities?
 34. Which java & selenium versions are you using?
 35. How do you handle if XPath is changing dynamically?
-36. Have you ever written test cases in your recent projects?
+
+36. Have you ever written Specialized test not working cases in your projects?Have you ever written test cases in your recent projects?
+
 37. They asked Some selenium questions.
 38.
 39.
